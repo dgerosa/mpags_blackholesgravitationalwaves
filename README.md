@@ -30,7 +30,7 @@ There will be nine 1 hour lectures spread throughout the term. The course will c
 
 ### Part I: Christopher Moore (lectures 1-3)
 
-The first module will give an overview of some of the mathematical background to general relativity: manifolds, the metric, tensors, covariant derivatives, the Riemannian curvature. We will then cover the Einstein field equations and the Schwarzschild solution.
+The first module will give an overview of some of the mathematical background to general relativity: manifolds, the metric, tensors, covariant derivatives, the Riemannian curvature. We will then cover the linearised Einstein field equations and the Schwarzschild solution.
 
 ### Part II: Davide Gerosa (lectures 4-6)
 
