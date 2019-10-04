@@ -3,6 +3,8 @@
 
 [MPAGS website](https://warwick.ac.uk/fac/sci/physics/mpags/modules/astro/blackhole)
 
+Please upload your questions at https://forms.gle/mCBFAfGAvU8V4Ke16
+
 
 **Lecturers:** Dr. Christopher Moore (part I), Dr. [Davide Gerosa](http://www.sr.bham.ac.uk/~dgerosa/) (part II) and Dr. Patricia Schmidt (part III)
 
