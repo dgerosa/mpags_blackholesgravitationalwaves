@@ -3,19 +3,15 @@
 
 [MPAGS website](https://warwick.ac.uk/fac/sci/physics/mpags/modules/astro/blackhole)
 
-Please upload your problem sheets at https://forms.gle/mCBFAfGAvU8V4Ke16
-
 
 **Lecturers:** Dr. Christopher Moore (part I), Dr. [Davide Gerosa](http://www.sr.bham.ac.uk/~dgerosa/) (part II) and Dr. Patricia Schmidt (part III)
 
-### 2019 Schedule. 
-Start: 3/10/2019
-
-End: 28/11/2019
+### 2020 Schedule. 
+Start: 1/10/2019
 
 Thursdays 2:00-3:00
 
-Room: Birmingham, Physics West 123a (and streamed to the other MPGAS sites).
+Zoom link will be circulated by email.
 
 ### Module Details
  
@@ -44,12 +40,13 @@ This part of the course will give a basic introduction to numerical relativity -
 
  
 
-### Residential Workshop:
+### Final Workshop:
 
-As this course will have remote participation, the workshop will provide the only opportunity to gather everyone together in one place. The workshop will take place over one day after the end of the autumn term. We plan to start at 10.00am and finish a 5.00 to accommodate people travelling to Birmingham (some financial support for travel will be available). There will be two sessions in which the students will work together to use python to solve a numerical exercise based one of the topics covered in the lectures. If possible students should bring their own laptops with a working Python installation (please let us know in advance if this is a problem and we will make alternative arrangements).
-
+The course will conclude with an interactive, hands-on workshop, which will provide provide a taste of current gravitational-wave data-analysis methods.
  
 
 ### Assessment:
 
 The course will be assessed via 3 short example sheets (one for each part of the course) which students can complete in their own time and submit online to the lecturer.
+
+Please upload your problem sheets at https://forms.gle/mCBFAfGAvU8V4Ke16
