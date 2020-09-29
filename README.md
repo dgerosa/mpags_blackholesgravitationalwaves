@@ -7,7 +7,7 @@
 **Lecturers:** Dr. Christopher Moore (part I), Dr. [Davide Gerosa](http://www.sr.bham.ac.uk/~dgerosa/) (part II) and Dr. Patricia Schmidt (part III)
 
 ### 2020 Schedule. 
-Start: 1/10/2019
+Start: 1/10/2020
 
 Thursdays 2:00-3:00
 
