@@ -1,5 +1,5 @@
 # PhD class "Black Holes and Gravitational Waves"
-### University of Birmingham and MPAGS
+### University of Birmingham and MPAGS 
 
 [MPAGS website](https://warwick.ac.uk/fac/sci/physics/mpags/modules/astro/blackhole)
 
@@ -18,7 +18,7 @@ Thursdays 2:00-3:00
 Room: Birmingham, Physics West 123a (and streamed to the other MPGAS sites).
 
 ### Module Details
- 
+
 There will be nine 1 hour lectures spread throughout the term. The course will conclude with a 1 day residential workshop in Birmingham which will elaborate on some of the topics covered with practical numerical calculations performed using Python.
 
 
