@@ -50,3 +50,12 @@ The course will conclude with an interactive, hands-on workshop, which will prov
 The course will be assessed via 3 short example sheets (one for each part of the course) which students can complete in their own time and submit online to the lecturer.
 
 Please upload your problem sheets at https://forms.gle/mCBFAfGAvU8V4Ke16
+
+
+### Past editions:
+
+Materials from previous editions remains available in dedicated branches of this repository.
+
+- 2019-2020: https://github.com/dgerosa/mpags_blackholesgravitationalwaves/tree/2019-2020
+
+
