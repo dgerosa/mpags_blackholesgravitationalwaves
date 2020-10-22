@@ -59,3 +59,7 @@ Materials from previous editions remains available in dedicated branches of this
 - 2019-2020: https://github.com/dgerosa/mpags_blackholesgravitationalwaves/tree/2019-2020
 
 
+
+
+![IsEinsteinwrong](https://imgs.xkcd.com/comics/einstein.png)
+Credits: https://xkcd.com/1206/
